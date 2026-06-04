@@ -1,2 +1,2 @@
-# LC_GFG
-My competitive programming solutions — LeetCode &amp; GFG
+# LC
+My  programming solutions — LeetCode
